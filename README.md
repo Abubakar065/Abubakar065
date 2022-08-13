@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abubakar065
-- 👀 I’m interested in Frontend, Backend, System Administration and ELectrical Power Engineering.
+- 👀 I’m interested in Frontend, Backend, System Administration and Electrical Power Engineering.
 - 🌱 I’m currently learning Responsive Web Design with a view to cover up to Machine Learning
 
 <!---
