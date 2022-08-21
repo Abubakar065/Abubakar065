@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abubakar065
-- 👀 I’m interested in Frontend, Backend, System Administration and Electrical Power Engineering.
-- 🌱 I’m currently learning Responsive Web Design with a view to cover up to Machine Learning
+- 👀 I’m interested in Frontend, Backend, System Administration and Power Systems Engineering.
+- 🌱 I’m currently a student at ALX Full-Stack Software Engineering Cohort 2022
 
 <!---
 Abubakar065/Abubakar065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
